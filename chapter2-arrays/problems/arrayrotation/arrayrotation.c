@@ -1,0 +1,1 @@
+/*Write a function 'rotate' that rotates arr[] of size n by d elements*/

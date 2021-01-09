@@ -38,6 +38,15 @@ int array [10] = {35,64,82,51,10,22,36,98,70,5}
     Insertar Explicación
 
 
+Los arreglos permiten acceder a elementos de manera aleatoria, lo que indica que es más rápido acceder a cada uno de los elementos
+
+Los arreglos tienen **Tamaño Fijo**
+Los arreglos siempre guardan el mismo tipo de dato.
+Los arreglos se usan para implementar estructuras de datos como Stacks, Queues, Heaps, Hash Tables, Etc...
+
+
+En Python, no existen los arreglos, existen las listas, las tuplas, los sets y los diccionarios.
+
 # EJERCICIOS (20 ejercicios para practicar):
 
 
